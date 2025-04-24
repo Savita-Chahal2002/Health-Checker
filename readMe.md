@@ -81,13 +81,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License.
 
-# 🏥 Health Checker
-
-**Health Checker** is a web application designed to monitor and track the health status of various system components, websites, or services. It allows users to check the status of different APIs, servers, or URLs to ensure they are functioning correctly. This tool is built with the **MERN stack** (MongoDB, Express.js, React, Node.js) to provide real-time status updates and notifications.
-
----
-
-## 🚀 Features
 
 - 🌐 **Monitor Websites/Services**: Add multiple URLs or services to monitor their health status.
 - 🔔 **Notifications**: Get notified when a service or website goes down.
